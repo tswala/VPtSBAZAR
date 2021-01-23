@@ -2342,12 +2342,15 @@ a {
   width: 100%;
 }
 .cid-smU06OR0Fg {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-color: #40e135;
 }
 .cid-smU06OR0Fg .mbr-text {
   color: #c1c1c1;
+}
+.cid-smU06OR0Fg H3 {
+  color: #ffffff;
 }
 .cid-smvC2n4k1x {
   padding-top: 0px;
